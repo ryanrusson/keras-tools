@@ -11,5 +11,6 @@ Description: Repo for tools developed to help with deep learning with Keras. Als
      instructions to get the runtime environment installed
     3. Restart Docker `systemctl restart docker` on Ubuntu systems
 3. Ensure the above worked by running `sudo docker run -it --rm --gpus all ubuntu nvidia-smi` which should output
- something like this: ![nvidia-smi screenshot](assets/images/nvidiasmi-keras-tools.png)
+ something like this: 
+ ![nvidia-smi screenshot](assets/images/nvidiasmi-keras-tools.png)
     
