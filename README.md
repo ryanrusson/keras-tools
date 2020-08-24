@@ -23,6 +23,7 @@ Description: Repo for tools developed to help with deep learning with Keras. Als
     2. (Ubuntu) Install the driver `sudo apt install nvidia-driver-450` for example
     3. Reboot your machine `sudo reboot`
     4. Verify the install after reboot with `nvidia-smi`
+    
  
 
     
